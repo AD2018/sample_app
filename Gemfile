@@ -41,9 +41,6 @@ group :development, :test do
 end
 
 group :test do
-  gem 'mini_backtrace'
-  gem 'guard-minitest'
-  gem 'minitest-reportes'
 end
 
 group :development do
