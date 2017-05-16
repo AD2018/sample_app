@@ -41,6 +41,7 @@ group :development, :test do
 end
 
 group :test do
+  gem 'rails-controller-testing'
 end
 
 group :development do
